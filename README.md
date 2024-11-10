@@ -47,12 +47,18 @@ and many more.....
 
 ## 📊 Features
 **Comprehensive Data Cleaning:** Cleaning techniques applied for improved data quality.
+
 **Exploratory Data Analysis (EDA):** Identifying patterns and insights through visualizations.
+
 **Interactive Dashboards:** Dynamic Power BI dashboards for sales and healthcare data.
+
 **Predictive Insights:** Assessing risk and success factors in the loan and movie domains.
+
 ## 📈 Results and Insights
 **IMDB Movie Success:** Key factors that influence movie ratings and success metrics.
+
 **Loan Default Risk:** Patterns in loan application data that indicate high default risk.
+
 and many more....
 ## 🤝 Contributions
 Feel free to submit issues or pull requests! Contributions that enhance data analysis and visualization are welcome.
