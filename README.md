@@ -13,11 +13,7 @@ Project Trinity is a collection of data analysis and visualization projects that
 2. **Loan Default Risk Analysis**  
    Conducts EDA on loan applications to identify default risks and assist in better risk management decisions.
 
-3. **Sales Analytics Dashboard**  
-   Builds an interactive Power BI dashboard for visualizing sales trends and KPIs.
-
-4. **Healthcare Analysis Report**  
-   Creates a comprehensive Power BI dashboard to track and analyze healthcare trends.
+ and many more....
 
 ## 💻 Technologies Used
 
